@@ -51,7 +51,7 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
         <td></td>
         <td>NVIDIA Triton Inference Server</td>
         <td><b>&check;</b> <a href="https://github.com/kubeflow/kfserving/tree/master/docs/samples/v1beta1/triton">sample</a></td>
-        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/servers/triton.html">docs</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/servers/triton.html">docs</a>, <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/triton_examples.html">samples</a></td>
       </tr>
       <tr>
         <td></td>
