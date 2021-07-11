@@ -129,13 +129,13 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
         <td>Rollout</td>
         <td>Canary</td>
         <td><b>&check;</b> <a href="https://github.com/kubeflow/kfserving/tree/master/docs/samples/v1beta1/rollout">sample</a></td>
-        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/istio_canary.html">docs</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/istio_canary.html">Istio</a>, <a href="https://docs.seldon.io/projects/seldon-core/en/latest/ingress/ambassador.html#canary-deployments">Ambassador</a></td>
       </tr>
       <tr>
         <td></td>
         <td>Shadow</td>
         <td></td>
-        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/ambassador_shadow.html">sample</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/ambassador_shadow.html">Ambassador</a></td>
       </tr>
       <tr>
         <td>Istio</td>
