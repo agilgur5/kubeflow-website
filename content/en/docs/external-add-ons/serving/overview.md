@@ -135,7 +135,7 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
         <td></td>
         <td>Shadow</td>
         <td></td>
-        <td><b>&check;</b></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/ambassador_shadow.html">sample</a></td>
       </tr>
       <tr>
         <td>Istio</td>
