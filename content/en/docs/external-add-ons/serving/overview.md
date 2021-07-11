@@ -51,7 +51,7 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
         <td></td>
         <td>NVIDIA Triton Inference Server</td>
         <td><b>&check;</b> <a href="https://github.com/kubeflow/kfserving/tree/master/docs/samples/v1beta1/triton">sample</a></td>
-        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/nvidia_mnist.html">docs</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/servers/triton.html">docs</a></td>
       </tr>
       <tr>
         <td></td>
@@ -69,7 +69,7 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
         <td>Graph</td>
         <td>Transformers</td>
         <td><b>&check;</b> <a href="https://github.com/kubeflow/kfserving/blob/master/docs/samples/v1beta1/transformer/torchserve_image_transformer">sample</a></td>
-        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/transformer_spam_model.html">docs</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/graph-metadata.html#Input-Transformer">sample</a></td>
       </tr>
       <tr>
         <td></td>
