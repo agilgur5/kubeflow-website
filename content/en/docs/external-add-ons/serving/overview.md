@@ -140,8 +140,8 @@ KFServing and Seldon Core. A check mark (**&check;**) indicates that the system
       <tr>
         <td>Istio</td>
         <td></td>
-        <td><b>&check;</b></td>
-        <td><b>&check;</b></td>
+        <td><b>&check;</b> <a href="/docs/external-add-ons/istio/istio-in-kubeflow/">docs</a></td>
+        <td><b>&check;</b> <a href="https://docs.seldon.io/projects/seldon-core/en/latest/examples/istio.html">docs</a></td>
       </tr>
     </tbody>
   </table>
